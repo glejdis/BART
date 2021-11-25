@@ -1,0 +1,159 @@
+\begin{thebibliography}{10}
+
+\bibitem{27}
+J.~A. Al-Lawati.
+\newblock Diabetes mellitus: a local and global public health emergency!
+\newblock {\em Oman medical journal}, 32(3):177, 2017.
+
+\bibitem{12}
+L.~Breiman.
+\newblock Bagging predictors.
+\newblock {\em Machine learning}, 24(2):123--140, 1996.
+
+\bibitem{10}
+L.~Breiman.
+\newblock Random forests.
+\newblock {\em Machine Learning}, 45(1):5--32, Oct 2001.
+
+\bibitem{22}
+L.~Breiman.
+\newblock Random forests.
+\newblock {\em Machine learning}, 45(1):5--32, 2001.
+
+\bibitem{3}
+L.~Breiman, J.~H. Friedman, R.~A. Olshen, and C.~J. Stone.
+\newblock {\em Classification and Regression Trees}.
+\newblock Wadsworth and Brooks, 1984.
+
+\bibitem{23}
+A.~Burkov.
+\newblock {\em The hundred-page machine learning book}, volume~1.
+\newblock Andriy Burkov Canada, 2019.
+
+\bibitem{28}
+S.~Chib and E.~Greenberg.
+\newblock Understanding the metropolis-hastings algorithm.
+\newblock {\em The american statistician}, 49(4):327--335, 1995.
+
+\bibitem{34}
+H.~A. Chipman, E.~I. George, and R.~E. McCulloch.
+\newblock Bayesian treed models.
+\newblock {\em Machine Learning}, 48(1):299--320, 2002.
+
+\bibitem{7}
+H.~A. Chipman, E.~I. George, and R.~E. McCulloch.
+\newblock Bart: Bayesian additive regression trees.
+\newblock {\em The Annals of Applied Statistics}, 4(1), Mar 2010.
+
+\bibitem{1}
+D.~G.~T. Denison, B.~K. Mallick, and A.~F.~M. Smith.
+\newblock {A Bayesian CART algorithm}.
+\newblock {\em Biometrika}, 85(2):363--377, 06 1998.
+
+\bibitem{8}
+B.~Efron, T.~Hastie, I.~Johnstone, and R.~Tibshirani.
+\newblock {Least angle regression}.
+\newblock {\em The Annals of Statistics}, 32(2):407 -- 499, 2004.
+
+\bibitem{25}
+B.~Efron, T.~Hastie, I.~Johnstone, R.~Tibshirani, et~al.
+\newblock Least angle regression.
+\newblock {\em Annals of statistics}, 32(2):407--499, 2004.
+
+\bibitem{11}
+Y.~Freund and R.~Schapire.
+\newblock A decision-theoric generalization of online learning and an
+  application to boosting.
+\newblock In {\em Proc. Of the 2th European Conf. on Computational Learning
+  Theory, Rochester, NY, ACM Press}, pages 202--216, 1990.
+
+\bibitem{33}
+J.~H. Friedman.
+\newblock Multivariate adaptive regression splines.
+\newblock {\em The annals of statistics}, pages 1--67, 1991.
+
+\bibitem{9}
+J.~H. Friedman.
+\newblock {Greedy function approximation: A gradient boosting machine.}
+\newblock {\em The Annals of Statistics}, 29(5):1189 -- 1232, 2001.
+
+\bibitem{29}
+A.~Gelman, J.~B. Carlin, H.~S. Stern, D.~B. Dunson, A.~Vehtari, and D.~B.
+  Rubin.
+\newblock {\em Bayesian data analysis}.
+\newblock CRC press, 2013.
+
+\bibitem{31}
+T.~Hastie and R.~Tibshirani.
+\newblock Bayesian backfitting.
+\newblock {\em Statistical Science}, 15(3):196--213, 2000.
+
+\bibitem{24}
+T.~Hastie, R.~Tibshirani, and M.~Wainwright.
+\newblock Datasets used in sls: Diabetes data., September 2015.
+\newblock Statistical Learning with Sparsity.
+
+\bibitem{14}
+A.~Kapelner and J.~Bleich.
+\newblock bartmachine: Machine learning with bayesian additive regression
+  trees.
+\newblock {\em arXiv preprint arXiv:1312.2171}, 2013.
+
+\bibitem{32}
+B.~Lakshminarayanan, D.~Roy, and Y.~W. Teh.
+\newblock {Particle Gibbs for Bayesian Additive Regression Trees}.
+\newblock In G.~Lebanon and S.~V.~N. Vishwanathan, editors, {\em Proceedings of
+  the Eighteenth International Conference on Artificial Intelligence and
+  Statistics}, volume~38 of {\em Proceedings of Machine Learning Research},
+  pages 553--561, San Diego, California, USA, 09--12 May 2015. PMLR.
+
+\bibitem{4}
+B.~Lantz.
+\newblock {\em Machine Learning with R: Expert techniques for predictive
+  modeling to solve all your data analysis problems}.
+\newblock Packt Publishing, 2015.
+
+\bibitem{2}
+W.-Y. Loh.
+\newblock Classification and regression trees.
+\newblock {\em Wiley Interdisciplinary Reviews: Data Mining and Knowledge
+  Discovery}, 1:14 -- 23, 01 2011.
+
+\bibitem{18}
+R.~McCulloch and R.~Sparapani.
+\newblock Introduction to bart: Bart::wbart., September 2017.
+
+\bibitem{5}
+J.~Mingers.
+\newblock An empirical comparison of selection measures for decision-tree
+  induction.
+\newblock {\em Machine Learning}, 3(4):319--342, Mar 1989.
+
+\bibitem{21}
+A.~Mira.
+\newblock Introduction to bayesian computing., 2021.
+
+\bibitem{30}
+C.~Pooley, S.~C. Bishop, A.~Doeschl-Wilson, and G.~Marion.
+\newblock Posterior-based proposals for speeding up markov chain monte carlo.
+\newblock {\em Royal Society open science}, 6(11):190619, 2019.
+
+\bibitem{16}
+C.~Scarpone, S.~T. Brinkmann, T.~Gro{\ss}e, D.~Sonnenwald, M.~Fuchs, and B.~B.
+  Walker.
+\newblock A multimethod approach for county-scale geospatial analysis of
+  emerging infectious diseases: a cross-sectional case study of covid-19
+  incidence in germany.
+\newblock {\em International journal of health geographics}, 19(1):1--17, 2020.
+
+\bibitem{26}
+E.~Scornet.
+\newblock Tuning parameters in random forests.
+\newblock {\em ESAIM: Proceedings and Surveys}, 60:144--162, 01 2017.
+
+\bibitem{20}
+D.~van Ravenzwaaij, P.~Cassey, and S.~D. Brown.
+\newblock A simple introduction to markov chain monte--carlo sampling.
+\newblock {\em Psychonomic Bulletin {\&} Review}, 25(1):143--154, Feb 2018.
+
+\end{thebibliography}

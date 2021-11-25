@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Bayesian Computing Report.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: abbrv.bst
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+Database file #1: citations.bib
+Warning--entry type for "18" isn't style-file defined
+--line 189 of file citations.bib
+Warning--entry type for "24" isn't style-file defined
+--line 253 of file citations.bib
+You've used 29 entries,
+            2118 wiz_defined-function locations,
+            671 strings with 7642 characters,
+and the built_in function-call counts, 9367 in all, are:
+= -- 909
+> -- 428
+< -- 5
++ -- 174
+- -- 140
+* -- 688
+:= -- 1573
+add.period$ -- 86
+call.type$ -- 29
+change.case$ -- 151
+chr.to.int$ -- 0
+cite$ -- 29
+duplicate$ -- 339
+empty$ -- 748
+format.name$ -- 140
+if$ -- 1935
+int.to.chr$ -- 0
+int.to.str$ -- 29
+missing$ -- 30
+newline$ -- 146
+num.names$ -- 60
+pop$ -- 153
+preamble$ -- 1
+purify$ -- 126
+quote$ -- 0
+skip$ -- 239
+stack$ -- 0
+substring$ -- 602
+swap$ -- 56
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 108
+warning$ -- 0
+while$ -- 94
+width$ -- 31
+write$ -- 313
+(There were 2 warnings)
